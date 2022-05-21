@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 ![LuuNgocLan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuuNgocLan&show_icons=true&theme=radical)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuuNgocLan&theme=monokai)
+
 [![N.LanLuu StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8666157)](https://stackoverflow.com/users/8666157/n-lanluu)

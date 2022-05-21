@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuuNgocLan&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuuNgocLan&layout=compact)](https://github.com/LuuNgocLan/github-readme-stats)

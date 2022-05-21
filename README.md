@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuuNgocLan&theme=dark)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuuNgocLan&show_icons=true&theme=radical)
+![LuuNgocLan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuuNgocLan&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuuNgocLan&layout=compact)](https://github.com/LuuNgocLan/github-readme-stats)
 
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8666157)](https://stackoverflow.com/users/8666157/n-lanluu)
+[![N.LanLuu StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8666157)](https://stackoverflow.com/users/8666157/n-lanluu)

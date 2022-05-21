@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors) ![](https://komarev.com/ghpvc/?username=LuuNgocLan&color=orange)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuuNgocLan&theme=dark)](https://git.io/streak-stats)
 

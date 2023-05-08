@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=.visitor-badge&left_color=gray&right_color=green&left_text=HelloVisitors)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuuNgocLan&theme=monokai)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuuNgocLan&theme=monokai)

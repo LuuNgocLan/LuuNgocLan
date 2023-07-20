@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuuNgocLan&theme=monokai)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuuNgocLan&theme=monokai)

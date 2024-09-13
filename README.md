@@ -1,6 +1,9 @@
 # 👩‍💻 Hey, I’m Lan! 💜 Welcome to My Coding Playground 🚀
 I'm a Mobile Developer with a passion for crafting sleek, high-performance apps. My toolkit? Kotlin for Android and Flutter for cross-platform magic. 🚀
 
+## 🚀 Talks
+- Building adaptive layout with Jetpack Compose at Google I/O Extended Mientrung 2024 -> [Slide](https://docs.google.com/presentation/d/1Tq7jIMcG5fN33jRDIpLq3b8el_-aWy_MazkKeTUT_FQ/edit#slide=id.g1f133acde25_5_4)
+
 ## 💻 What I Do:
 - Kotlin Android: Native Android development with a touch of elegance and efficiency.
 - Flutter: Building beautiful, responsive apps for both Android and iOS with a single codebase.

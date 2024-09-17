@@ -1,25 +1,39 @@
-# 👩‍💻 Hey, I’m Lan! 💜 Welcome to My Coding Playground 🚀
-I'm a Mobile Developer with a passion for crafting sleek, high-performance apps. My toolkit? Kotlin for Android and Flutter for cross-platform magic. 🚀
+# 👩‍💻 Hey, I’m Lan! 💜 
 
-## 🚀 Talks
+<p align="center">
+   <code>Visitor count</code>
+   <img src="https://profile-counter.glitch.me/LuuNgocLan/count.svg" />
+  
+   <br>
+   <a href="https://hits.seeyoufarm.com">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuuNgocLan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+   </a>
+</p>
+
+#### I'm a Mobile Developer with a passion for crafting sleek, high-performance apps. My toolkit? Kotlin for Android and Flutter for cross-platform magic. 🚀
+
+#### Let’s Connect:
+
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lan.luungoc2209.94)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lanltn)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ngoclan00349235)
+[![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8666157/n-lanluu)
+[![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:luungoclan007@gmail.com?subject=[Freelancer]%20Hello)
+[![Medium](https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@lanltn/)
+
+### Talks
 - Building adaptive layout with Jetpack Compose at Google I/O Extended Mientrung 2024 -> [Slide](https://docs.google.com/presentation/d/1Tq7jIMcG5fN33jRDIpLq3b8el_-aWy_MazkKeTUT_FQ/edit#slide=id.g1f133acde25_5_4)
 
-## 💻 What I Do:
+### What I Do:
 - Kotlin Android: Native Android development with a touch of elegance and efficiency.
 - Flutter: Building beautiful, responsive apps for both Android and iOS with a single codebase.
 - Tech Lover: Exploring the latest in mobile dev, from architecture patterns to UI/UX best practices.
   
-## 🔥 My Vibe:
+### My Vibe:
 - Code clean, build fast, ship often. 💅
 - Obsessed with learning, passionate about mobile, and always up for a challenge. 💡
 
-## 🚀 Current Focus:
+### Current Focus:
 - Android & Flutter: Building cross-platform and native Android apps is where I shine.
 - Mentorship: From one-on-one sessions to group workshops, I help devs level up their skills.
 - Content Creation: Breaking down tech for the masses and contributing to the developer community.
-
-## 💬 Let’s Connect:
-- LinkedIn: [in/lanltn](https://www.linkedin.com/in/lanltn/)
-- X: [@ngoclan00349235](https://x.com/ngoclan00349235)
-- Emmail: [luungoclan007@gmail.com](luungoclan007@gmail.com)
-- Facebook: [Lưu Ngọc Lan](https://www.facebook.com/lan.luungoc2209.94)

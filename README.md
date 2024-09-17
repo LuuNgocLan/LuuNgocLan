@@ -1,13 +1,9 @@
-# 👩‍💻 Hey, I’m Lan! 💜 
+# 👩‍💻 Hey, I’m Lan! 
 
 <p align="center">
    <code>Visitor count</code>
+</br>
    <img src="https://profile-counter.glitch.me/LuuNgocLan/count.svg" />
-  
-   <br>
-   <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuuNgocLan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-   </a>
 </p>
 
 #### I'm a Mobile Developer with a passion for crafting sleek, high-performance apps. My toolkit? Kotlin for Android and Flutter for cross-platform magic. 🚀

@@ -1,11 +1,5 @@
 # 👩‍💻 Hey, I’m Lan! 
 
-<p align="center">
-   <code>Visitor count</code>
-</br>
-   <img src="https://profile-counter.glitch.me/LuuNgocLan/count.svg" />
-</p>
-
 #### I'm a Mobile Developer with a passion for crafting sleek, high-performance apps. My toolkit? Kotlin for Android and Flutter for cross-platform magic. 🚀
 
 #### Let’s Connect:

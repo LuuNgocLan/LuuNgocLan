@@ -12,18 +12,22 @@
 [![Medium](https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@lanltn/)
 
 ### Talks
-- Building adaptive layout with Jetpack Compose at Google I/O Extended Mientrung 2024 -> [Slide](https://docs.google.com/presentation/d/1Tq7jIMcG5fN33jRDIpLq3b8el_-aWy_MazkKeTUT_FQ/edit#slide=id.g1f133acde25_5_4)
+- Building adaptive layout with Jetpack Compose at Google I/O Extended Mientrung 2024 -> [Slide](https://docs.google.com/presentation/d/1Tq7jIMcG5fN33jRDIpLq3b8el_-aWy_MazkKeTUT_FQ/edit#slide=id.g1f133acde25_5_4) 
+- What's new in Google Play and kickoff ChienBinhAndroidS3 at Google I/0 Extended Mientrung 2023 
 
-### What I Do:
+### What I Do
 - Kotlin Android: Native Android development with a touch of elegance and efficiency.
 - Flutter: Building beautiful, responsive apps for both Android and iOS with a single codebase.
 - Tech Lover: Exploring the latest in mobile dev, from architecture patterns to UI/UX best practices.
   
-### My Vibe:
-- Code clean, build fast, ship often. 💅
-- Obsessed with learning, passionate about mobile, and always up for a challenge. 💡
+<br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<br>
 
-### Current Focus:
-- Android & Flutter: Building cross-platform and native Android apps is where I shine.
-- Mentorship: From one-on-one sessions to group workshops, I help devs level up their skills.
-- Content Creation: Breaking down tech for the masses and contributing to the developer community.
+<div align=center>
+  </a>
+  <a href="#" title="luungoclan">
+    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=LuuNgocLan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+

@@ -12,6 +12,7 @@
 [![Medium](https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@lanltn/)
 
 ### Talks
+- Hands-on building adaptive apps on Large Screen with Jetpack Compose - Mobile Tech Jam - DevFest HCMC 2024 - [Slide](https://docs.google.com/presentation/d/1A_uCDbTChmW3URV2wxJG0yfSiU8_na4R4dDYOYQQA10/edit#slide=id.g313646d0293_1_9)
 - Building adaptive layout with Jetpack Compose at Google I/O Extended Mientrung 2024 -> [Slide](https://docs.google.com/presentation/d/1Tq7jIMcG5fN33jRDIpLq3b8el_-aWy_MazkKeTUT_FQ/edit#slide=id.g1f133acde25_5_4) 
 - What's new in Google Play and kickoff ChienBinhAndroidS3 at Google I/0 Extended Mientrung 2023 
 

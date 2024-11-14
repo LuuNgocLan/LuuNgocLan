@@ -1,6 +1,6 @@
 # 👩‍💻 Hey, I’m Lan! 
 
-#### I'm a Mobile Developer with a passion for crafting sleek, high-performance apps. My toolkit? Kotlin for Android and Flutter for cross-platform magic. 🚀
+#### I’m a Mobile Developer who loves building speedy apps! My toolkit? Kotlin for Android and Flutter for cross-platform wizardry. 🎩✨ 🚀
 
 #### Let’s Connect:
 

@@ -1,10 +1,10 @@
 # 👩‍💻 Hey, I’m Lan! 
 
-#### I’m a Mobile Developer who loves building beauty and speedy apps! My toolkit? Kotlin for Android and Flutter for cross-platform. 🎩✨ 🚀
+#### I’m a Mobile Developer who loves building beautiful and speedy apps! My toolkit? Kotlin for Android and Flutter for cross-platform. 🎩✨ 🚀
 
 #### Let’s Connect:
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lan.luungoc2209.94)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lan.luungoc2209)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lanltn)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ngoclan00349235)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8666157/n-lanluu)
@@ -30,5 +30,11 @@
   <a href="#" title="luungoclan">
     <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=LuuNgocLan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+</div>
+
+<div align=center>
+   <a href="#" title="luungoclan">
+<img align="center" width="434" src="https://streak-stats.demolab.com?user=LuuNgocLan&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D"/>
+   </a>
 </div>
 

@@ -34,7 +34,7 @@
 
 <div align=center>
    <a href="#" title="luungoclan">
-<img align="center" width="434" src="https://streak-stats.demolab.com?user=LuuNgocLan&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img align="center" width="434" src="https://streak-stats.demolab.com?user=LuuNgocLan&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
    </a>
 </div>
 
